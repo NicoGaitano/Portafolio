@@ -1,0 +1,58 @@
+.azul , .boton_proyectos{
+    background-color: #0C3C73;
+}
+
+.letra_color ,.titulos,.lead, .boton_proyectos .navbar-brand, label{
+    color:white;
+}
+
+.fotos {
+    width: 97%;
+    height: 89%;
+    margin: 1.4px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+
+.titulos, .titulos_nombre, .titulos_parrafo,.titulo_proyectos,.titulos_redes,.todos_proyectos{
+    text-align: center;
+}
+
+.titulos_nombre{
+    margin-top: 50px
+}
+
+.foto_centrar{
+    border-radius: 50%;
+    padding-top: 70px;
+    }
+
+.naranja{
+    background-color: #ED5F03;  
+} 
+  
+.alto_bajo{
+    padding-top: 95px;
+    padding-bottom: 95px;
+}
+
+.pie_pagina{
+    background-color: #2D517D;
+}
+
+.icono{
+    margin: 5px;
+    color: white;
+}
+.boton_proyectos  ,.foto_centrar , .boton_enviar{
+    display:block;
+    margin:auto;
+
+}
+.boton_proyectos{
+    width: 25%;
+}
+
+
