@@ -1,6 +1,7 @@
-.azul , .boton_proyectos{
+.azul , .boton_proyectos,.boton_cv{
     background-color: #0C3C73;
 }
+
 
 .letra_color ,.titulos,.lead, .boton_proyectos .navbar-brand, label{
     color:white;
@@ -46,7 +47,7 @@
     margin: 5px;
     color: white;
 }
-.boton_proyectos  ,.foto_centrar , .boton_enviar{
+.boton_proyectos  ,.foto_centrar , .boton_enviar,.boton_cv{
     display:block;
     margin:auto;
 
@@ -55,4 +56,8 @@
     width: 25%;
 }
 
-
+.boton_cv{
+    margin-bottom: 2%;
+    width: 22%;
+    
+}
